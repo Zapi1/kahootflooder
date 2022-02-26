@@ -1,0 +1,3 @@
+pip install kahootpy
+pip install colorama
+pip install os
